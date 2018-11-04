@@ -1,1 +1,1 @@
-# ActiveX SVG Document Execution 
+# ActiveX Collection of the files
